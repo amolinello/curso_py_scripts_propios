@@ -1,0 +1,2 @@
+
+doc.qt.io/qtforpython/PySide6/QtWidgets/index.html

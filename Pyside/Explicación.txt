@@ -1,0 +1,17 @@
+Es una implementación gratuita de QT (basado en c++)
+y permite crear aplicaciones de escritorio en python.
+
+El comando de instalación es:
+pip install pyside6
+
+# Esto se debe hacer para cada entorno virtual en el que
+se trabaje
+
+se obtiene de qt python de la pagina www.qt.io
+
+Se usa PySide para crear GUI
+Graphical User Interface = GUI
+
+
+
+Los comentarios se deberían hacer de solo 1 línea
